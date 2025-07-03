@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjet_lag=self.webpackChunkjet_lag||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/jet-lag/blog","blogTitle":"Blog","authorsListPath":"/jet-lag/blog/authors"}')}}]);

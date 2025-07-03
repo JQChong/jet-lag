@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Jet Lag The Game Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://jqchong.github.io/jet-lag/blog</link>
         <description>Jet Lag The Game Blog</description>
         <lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/welcome</link>
-            <guid>https://your-docusaurus-site.example.com/blog/welcome</guid>
+            <link>https://jqchong.github.io/jet-lag/blog/welcome</link>
+            <guid>https://jqchong.github.io/jet-lag/blog/welcome</guid>
             <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the hidden Jet Lag: The Game blog!]]></description>
             <content:encoded><![CDATA[<p>Welcome to the hidden Jet Lag: The Game blog!</p>]]></content:encoded>
