@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjet_lag=self.webpackChunkjet_lag||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"JetLag","permalink":"/blog/tags/jetlag","description":"Jet Lag: The Game","count":1}]}')}}]);

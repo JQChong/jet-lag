@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>Jet Lag The Game Blog</title>
+    <updated>2025-04-22T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>Jet Lag The Game Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/blog/welcome"/>
+        <updated>2025-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the hidden Jet Lag: The Game blog!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the hidden Jet Lag: The Game blog!</p>]]></content>
+        <author>
+            <name>Collin Jones</name>
+            <uri>https://github.com/teakivy</uri>
+        </author>
+        <category label="JetLag" term="JetLag"/>
+    </entry>
+</feed>
