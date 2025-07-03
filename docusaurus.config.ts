@@ -10,14 +10,14 @@ const config: Config = {
 	favicon: 'img/favicon.ico',
 
 	// Set the production url of your site here
-	url: 'https://your-docusaurus-site.example.com',
+	url: 'https://jqchong.github.io',
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
-	baseUrl: '/',
+	baseUrl: '/jet-lag/',
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
-	organizationName: 'teakivy', // Usually your GitHub org/user name.
+	organizationName: 'JQChong', // Usually your GitHub org/user name.
 	projectName: 'jet-lag', // Usually your repo name.
 
 	onBrokenLinks: 'throw',
@@ -39,7 +39,7 @@ const config: Config = {
 					sidebarPath: './sidebars.ts',
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					editUrl: 'https://github.com/teakivy/jet-lag/tree/master/',
+					editUrl: 'https://github.com/JQChong/jet-lag/tree/master/',
 				},
 				// blog: {
 				//   showReadingTime: true,
@@ -99,7 +99,7 @@ const config: Config = {
 
 				{ to: '/map_generator', label: 'Map Generator', position: 'right' },
 				{
-					href: 'https://github.com/teakivy/jet-lag',
+					href: 'https://github.com/JQChong/jet-lag',
 					label: 'GitHub',
 					position: 'right',
 				},
