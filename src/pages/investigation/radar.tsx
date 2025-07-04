@@ -20,9 +20,9 @@ export default function Radar() {
 						'5 km',
 						'10 km',
 						'20 km',
-						'50 km',
-						'100 km',
-						'200 km',
+						'40 km',
+						'80 km',
+						'160 km',
 						'CHOOSE',
 					],
 				}}
