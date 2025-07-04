@@ -33,6 +33,7 @@ We do not have high-speed train line in Singapore...
 
 Includes light and heavy rail; metros/subways count. As a convention, we treat MRT stations as the same as LRT stations.
 
+<!--
 ### Borders
 
 #### International Border
@@ -45,7 +46,7 @@ This is a border between the biggest formal category of division. For the US, it
 
 #### 2nd Administrative Division Border
 
-This is a border between the next level of division. In the US, this is counties. In Switzerland, districts. In Japan, subprefectures.
+This is a border between the next level of division. In the US, this is counties. In Switzerland, districts. In Japan, subprefectures.-->
 
 ### Natural
 
@@ -71,9 +72,10 @@ You can see this illustrated below:
 
 We recommend you don't rely on this to be super precise, and that you consult with each other if there's any weirdness.
 
+<!--
 #### Mountain
 
-Anything correctly classified as a mountain by your mapping app. Measure distance from the map icon.
+Anything correctly classified as a mountain by your mapping app. Measure distance from the map icon.-->
 
 #### Park
 
@@ -120,3 +122,7 @@ Anything correctly categorized as a library by your mapping app. Measure distanc
 #### Foreign Consulate
 
 Anything correctly categorized as a foreign consulate by your mapping app. Exclude honorary consulates. Measure distance from the map icon.
+
+### McDonalds/7-Eleven/FairPrice
+
+Anything correctly categorized as a McDonalds/7-Eleven/FairPrice by your mapping app. Measure distance from the map icon. Not supported by Map Generator yet, so do this manually.

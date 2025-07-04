@@ -24,7 +24,7 @@ export default function Measuring() {
 						'A 2nd Admin. Div. Border',
 					],*/
 					Natural: [
-						//'Sea Level',
+						'Sea Level',
 						'A Body of Water',
 						'A Coastline',
 						//'A Mountain',
@@ -37,15 +37,17 @@ export default function Measuring() {
 						'A Golf Course',
 						'A Museum',
 						'A Cinema',
-						'A McDonalds',
-						'A 7-Eleven',
-						'A FairPrice (Express, Finest, Xtra etc.)'
 					],
 					'Public Utilities': [
 						'A Hospital',
 						'A Library',
 						'A Foreign Consulate',
 					],
+					'Miscellaneous (Not supported on Map Generator)': [
+						'A McDonalds',
+						'A 7-Eleven',
+						'A FairPrice (Express, Finest, Xtra etc.)'
+					]
 				}}
 			/>
 		</Layout>
