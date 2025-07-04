@@ -122,3 +122,7 @@ Anything correctly categorized as a library by your mapping app. Measure distanc
 #### Foreign Consulate
 
 Anything correctly categorized as a foreign consulate by your mapping app. Exclude honorary consulates. Measure distance from the map icon.
+
+### McDonalds/7-Eleven/FairPrice
+
+Anything correctly categorized as a McDonalds/7-Eleven/FairPrice by your mapping app. Measure distance from the map icon. Not supported by Map Generator yet, so do this manually.

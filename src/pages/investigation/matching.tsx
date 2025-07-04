@@ -33,9 +33,14 @@ export default function Matching() {
 						'Aquarium',
 						'Golf Course',
 						'Museum',
-						'Movie Theater',
+						'Cinema',
 					],
 					'Public Utilities': ['Hospital', 'Library', 'Foreign Consulate'],
+					'Miscellaneous (Not supported on Map Generator)': [
+						'A McDonalds',
+						'A 7-Eleven',
+						'A FairPrice (Express, Finest, Xtra etc.)'
+					]
 				}}
 			/>
 		</Layout>
