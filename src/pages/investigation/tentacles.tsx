@@ -13,13 +13,13 @@ export default function Tentacles() {
 				prompt='Of all the Places within DISTANCE of me, which are you closest to? (You must also be within DISTANCE.)'
 				storageKey='tentaclesNotes'
 				fields={{
-					'Medium & Large Games (1 Mile)': [
+					'Medium & Large Games (2 km)': [
 						'Museums',
 						'Libraries',
 						'Movie Theaters',
 						'Hospitals',
 					],
-					'Large Games Only (15 Miles)': [
+					'Large Games Only (25 km)': [
 						'Metro Lines',
 						'Zoos',
 						'Aquariums',

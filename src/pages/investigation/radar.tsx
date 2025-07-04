@@ -14,15 +14,15 @@ export default function Radar() {
 				storageKey='radarNotes'
 				fields={{
 					'All Games': [
-						'¼ Mile',
-						'½ Mile',
-						'1 Mile',
-						'3 Miles',
-						'5 Miles',
-						'10 Miles',
-						'25 Miles',
-						'50 Miles',
-						'100 Miles',
+						'0.5 km',
+						'1 km',
+						'2 km',
+						'5 km',
+						'10 km',
+						'20 km',
+						'50 km',
+						'100 km',
+						'200 km',
 						'CHOOSE',
 					],
 				}}

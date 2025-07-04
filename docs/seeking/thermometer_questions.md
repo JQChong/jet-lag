@@ -16,13 +16,13 @@ import LabelPill from '@site/src/components/LabelPill';
 
 These are the thermometer questions available to the seekers in <LabelPill label='SMALL'/> **sized games**:
 
-- ½ Mile
-- 3 Miles
+- 1 km
+- 5 km
 
 ### For <LabelPill label='MEDIUM' fontSize='1rem'/> and <LabelPill label='LARGE' fontSize='1rem'/> Sized Games, Add the Following:
 
-- 10 Miles
+- 20 km
 
 ### For <LabelPill label='LARGE' fontSize='1rem'/> Sized Games, Add the Following:
 
-- 50 Miles
+- 100 km

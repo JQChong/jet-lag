@@ -12,7 +12,7 @@ export default function Home() {
 			<div className='homepage-hero'>
 				<div className='hide-seek-logo'>
 					<div className='logo'>
-						<img src='/img/jetlag.png' alt='Hide and Seek Logo' />
+						<img src='img/jetlag.png' alt='Hide and Seek Logo' />
 					</div>
 					<div
 						className='logo-container'

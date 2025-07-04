@@ -3,12 +3,12 @@ import { useLocation, useHistory } from '@docusaurus/router';
 import '../pages/investigationBook.css';
 
 const navItems = [
-	{ label: 'Matching', path: '/investigation/matching' },
-	{ label: 'Measuring', path: '/investigation/measuring' },
-	{ label: 'Thermometer', path: '/investigation/thermometer' },
-	{ label: 'Radar', path: '/investigation/radar' },
-	{ label: 'Tentacles', path: '/investigation/tentacles' },
-	{ label: 'Photos', path: '/investigation/photos' },
+	{ label: 'Matching', path: 'matching' },
+	{ label: 'Measuring', path: 'measuring' },
+	{ label: 'Thermometer', path: 'thermometer' },
+	{ label: 'Radar', path: 'radar' },
+	{ label: 'Tentacles', path: 'tentacles' },
+	{ label: 'Photos', path: 'photos' },
 ];
 
 export default function InvestigationNav() {

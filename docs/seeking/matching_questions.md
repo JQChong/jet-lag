@@ -20,6 +20,8 @@ These are the matching questions available to the seekers:
 
 If there is any ambiguity, an airport is considered commercial if you can view flights to/from it via Google Flights ([flights.google.com](https://flights.google.com))
 
+In Singapore, it's either Seletar Airport or Changi Airport.
+
 #### Transit Line
 
 _Important: In order to ask this question, seekers must be on the form of transit, and it must be moving._
@@ -40,6 +42,11 @@ If a street or path is unnamed, it is considered to start or end wherever it has
 
 ### Administrative Divisions
 
+Reference: [https://en.wikipedia.org/wiki/Administrative_divisions_of_Singapore#Other_administrative_and_electoral_divisions](https://en.wikipedia.org/wiki/Administrative_divisions_of_Singapore#Other_administrative_and_electoral_divisions)
+
+In Map Generator, only OSM Zone 6 is available in Singapore. They correspond to Community Development Councils.
+
+<!--
 #### 1st Administrative Division
 
 This is the biggest formal category of division. For the US, it would be states. In Switzerland, cantons, in Japan, prefectures.
@@ -54,7 +61,7 @@ One more level down. In the US, Switzerland, and Japan, this would be municipali
 
 #### 4th Administrative Division
 
-Some places have no fourth administrative division, but many larger cities do. For example, New York City has boroughs, Zurich has districts, Tokyo has special wards.
+Some places have no fourth administrative division, but many larger cities do. For example, New York City has boroughs, Zurich has districts, Tokyo has special wards.-->
 
 ### Natural
 

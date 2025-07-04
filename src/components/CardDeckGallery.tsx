@@ -87,7 +87,7 @@ export default function CardDeckGallery() {
 	useEffect(() => {
 		allCards.forEach((card) => {
 			const img = new Image();
-			img.src = `/img/cards/${card.file}.png`;
+			img.src = `img/cards/${card.file}.png`;
 		});
 	}, []);
 
@@ -124,7 +124,7 @@ export default function CardDeckGallery() {
 						}}
 					>
 						<img
-							src={`/img/cards/${card.file}.png`}
+							src={`img/cards/${card.file}.png`}
 							alt=''
 							className='card-image'
 						/>
@@ -153,7 +153,7 @@ export default function CardDeckGallery() {
 						className={`card-modal-content ${closing ? 'fade-out' : ''}`}
 						onClick={(e) => e.stopPropagation()}
 					>
-						<img src={`/img/cards/${selectedCard}.png`} alt='Expanded card' />
+						<img src={`img/cards/${selectedCard}.png`} alt='Expanded card' />
 						<div className='card-modal-nav'></div>
 					</div>
 				</div>

@@ -20,10 +20,11 @@ export default function Matching() {
 						'Street or Path',
 					],
 					'Administrative Divisions': [
-						'1st Admin. Division',
-						'2nd Admin. Division',
-						'3rd Admin. Division',
-						'4th Admin. Division',
+						'Community Development Council',
+						//'1st Admin. Division',
+						//'2nd Admin. Division',
+						//'3rd Admin. Division',
+						//'4th Admin. Division',
 					],
 					Natural: ['Mountain', 'Landmass', 'Park'],
 					'Places of Interest': [

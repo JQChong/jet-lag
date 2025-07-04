@@ -13,9 +13,9 @@ export default function Thermometer() {
 				prompt="I've just traveled (at least) Distance. Am I hotter or colder?"
 				storageKey='thermometerNotes'
 				fields={{
-					'All Games': ['½ Mile', '3 Miles'],
-					'Add for Medium & Large': ['10 Miles'],
-					'Add for Large': ['50 Miles'],
+					'All Games': ['1 km', '5 km'],
+					'Add for Medium & Large': ['20 km'],
+					'Add for Large': ['100 km'],
 				}}
 			/>
 		</Layout>

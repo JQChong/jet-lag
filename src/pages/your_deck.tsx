@@ -140,11 +140,11 @@ export default function YourDeckPage() {
 
 		// Go through every card
 		for (const { file } of cardDefinitions) {
-			images.add(`/img/cards/${file}.png`);
+			images.add(`img/cards/${file}.png`);
 		}
 
 		// Add the card back too
-		images.add('/img/cards/card_back.png');
+		images.add('img/cards/card_back.png');
 
 		// Preload each image
 		images.forEach((src) => {

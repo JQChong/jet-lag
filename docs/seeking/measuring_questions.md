@@ -22,15 +22,16 @@ These are the measuring questions available to the seekers:
 
 If there is any ambiguity, an airport is considered commercial if you can view flights to/from it via Google Flights ([flights.google.com](https://flights.google.com)).
 
-~~#### High-Speed Train Line~~
+#### High-Speed Train Line
 
-~~Different countries sometimes have different definitions of high-speed rail, so it is worth using whatever definition is locally applicable. Otherwise, we recommend following the EU definition: _Minimum speed of 250 km/h (155 mph) on lines specifically built for high speed rail and of about 200 km/h (124 mph) on existing lines which have been specifically upgraded._~~
+<!--
+Different countries sometimes have different definitions of high-speed rail, so it is worth using whatever definition is locally applicable. Otherwise, we recommend following the EU definition: _Minimum speed of 250 km/h (155 mph) on lines specifically built for high speed rail and of about 200 km/h (124 mph) on existing lines which have been specifically upgraded._-->
 
 We do not have high-speed train line in Singapore...
 
 #### Rail Station
 
-Includes light and heavy rail; metros/subways count.
+Includes light and heavy rail; metros/subways count. As a convention, we treat MRT stations as the same as LRT stations.
 
 ### Borders
 

@@ -15,19 +15,19 @@ export default function Measuring() {
 				fields={{
 					Transit: [
 						'A Commercial Airport',
-						'A High Speed Train Line',
-						'A Rail Station',
+						// 'A High Speed Train Line',
+						// 'A Rail Station',
 					],
-					Borders: [
+					/*Borders: [
 						'An International Border',
 						'A 1st Admin. Div. Border',
 						'A 2nd Admin. Div. Border',
-					],
+					],*/
 					Natural: [
-						'Sea Level',
+						//'Sea Level',
 						'A Body of Water',
 						'A Coastline',
-						'A Mountain',
+						//'A Mountain',
 						'A Park',
 					],
 					'Places of Interest': [
@@ -36,7 +36,10 @@ export default function Measuring() {
 						'An Aquarium',
 						'A Golf Course',
 						'A Museum',
-						'A Movie Theater',
+						'A Cinema',
+						'A McDonalds',
+						'A 7-Eleven',
+						'A FairPrice (Express, Finest, Xtra etc.)'
 					],
 					'Public Utilities': [
 						'A Hospital',

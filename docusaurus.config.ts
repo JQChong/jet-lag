@@ -89,7 +89,7 @@ const config: Config = {
 					to: '/investigation/matching',
 					label: 'Investigation Book',
 					position: 'left',
-					activeBaseRegex: '/investigation/',
+					activeBaseRegex: '/jet-lag/investigation/',
 				},
 				{
 					to: '/your_deck',
