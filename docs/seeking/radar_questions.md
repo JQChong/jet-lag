@@ -14,13 +14,13 @@ Here's a little diagram to help illustrate how radar questions can work:
 
 These are the radar questions available to the seekers:
 
--   ¼ Mile
--   ½ Mile
--   1 Mile
--   3 Miles
--   5 Miles
--   10 Miles
--   25 Miles
--   50 Miles
--   100 Miles
+-   0.5 km
+-   1 km
+-   2 km
+-   5 km
+-   10 km
+-   20 km
+-   40 km
+-   80 km
+-   160 km
 -   Choose (for this, you may use any distance you wish)

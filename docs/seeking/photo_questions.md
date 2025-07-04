@@ -70,15 +70,15 @@ No zoom. Stand at the end of the aisle, shoot directly down.
 
 #### Place of Worship
 
-Must include a 5' × 5' section with three distinct elements. The litmus test for the distinct elements is: if someone went to that place and found what you took a picture of, they could confidently match it, and be sure it wasn't taken somewhere else.
+Must include a 15 cm × 15 cm section with three distinct elements. The litmus test for the distinct elements is: if someone went to that place and found what you took a picture of, they could confidently match it, and be sure it wasn't taken somewhere else.
 
 #### Train Platform
 
-Must include a 5' × 5' section with three distinct elements. The litmus test for the distinct elements is: if someone went to that place and found what you took a picture of, they could confidently match it, and be sure it wasn't taken somewhere else.
+Must include a 15 cm × 15 cm section with three distinct elements. The litmus test for the distinct elements is: if someone went to that place and found what you took a picture of, they could confidently match it, and be sure it wasn't taken somewhere else.
 
 ### For <LabelPill label='LARGE' fontSize='1rem'/> Sized Games, Add the Following:
 
-#### ½ Mile of Streets Traced
+#### 1 km of Streets Traced
 
 Must be continuous, include 5 turns, with no doubling back. Send north-south oriented. Streets must appear on mapping app.
 

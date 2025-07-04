@@ -16,36 +16,36 @@ import LabelPill from '@site/src/components/LabelPill';
 
 **Tentacle question cannot be used in <LabelPill label='SMALL'/> games**. These are the tentacle questions available to the seekers in **<LabelPill label='MEDIUM'/> sized games**:
 
-#### Museums Within 1 Mile
+#### Museums Within 2 km
 
 Anything correctly categorized as a museum by your mapping app.
 
-#### Libraries Within 1 Mile
+#### Libraries Within 2 km
 
 Anything correctly categorized as a library by your mapping app.
 
-#### Movie Theaters Within 1 Mile
+#### Movie Theaters Within 2 km
 
 Anything correctly categorized as a movie theater by your mapping app.
 
-#### Hospitals Within 1 Mile
+#### Hospitals Within 2 km
 
 Anything correctly categorized as a hospital by your mapping app.
 
 ### For <LabelPill label='LARGE' fontSize='1rem'/> Sized Games, Add the Following:
 
-#### Metro Lines Within 15 Miles
+#### Metro Lines Within 25 km
 
 These will be drawn as colored lines in Google Maps.
 
-#### Zoos Within 15 Miles
+#### Zoos Within 25 km
 
 Anything correctly categorized as a zoo by your mapping app.
 
-#### Aquariums Within 15 Miles
+#### Aquariums Within 25 km
 
 Anything correctly categorized as an aquarium by your mapping app.
 
-#### Amusement Parks Within 15 Miles
+#### Amusement Parks Within 25 km
 
 Anything correctly categorized as an amusement park by your mapping app.
