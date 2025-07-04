@@ -28,7 +28,7 @@ const CardDeckStack = forwardRef<HTMLDivElement, CardDeckStackProps>(
 					{Array.from({ length: visibleCards }).map((_, i) => (
 						<img
 							key={i}
-							src='/img/cards/card_back.png'
+							src='img/cards/card_back.png'
 							alt='Card Back'
 							style={{
 								position: 'absolute',

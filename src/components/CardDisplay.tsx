@@ -10,7 +10,7 @@ type CardDisplayProps = {
 function CardDisplay({ card, onClick, scale = 1, style }: CardDisplayProps) {
 	return (
 		<img
-			src={`/img/cards/${card}.png`}
+			src={`img/cards/${card}.png`}
 			alt={card}
 			onClick={onClick}
 			style={{

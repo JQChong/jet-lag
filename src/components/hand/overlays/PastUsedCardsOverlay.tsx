@@ -54,7 +54,7 @@ function PastUsedCardsOverlay({
 							}}
 						>
 							<img
-								src={`/img/cards/${card.file}.png`}
+								src={`img/cards/${card.file}.png`}
 								alt=''
 								className='card-image'
 							/>

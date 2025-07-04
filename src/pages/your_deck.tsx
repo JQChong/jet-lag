@@ -284,7 +284,7 @@ export default function YourDeckPage() {
 					{hand.map((card, i) => (
 						<img
 							key={i}
-							src={`/img/cards/${card.file}.png`}
+							src={`img/cards/${card.file}.png`}
 							alt={card.id}
 							style={{
 								width: 100 * 1.25,
@@ -305,7 +305,7 @@ export default function YourDeckPage() {
 					{Array.from({ length: handSize - hand.length }).map((_, i) => (
 						<img
 							key={i}
-							src='/img/cards/card_back.png'
+							src='img/cards/card_back.png'
 							alt='Card back'
 							style={{
 								width: 100 * 1.25,
