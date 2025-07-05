@@ -1,6 +1,9 @@
 # Preparations before playing the game
 The game will be played on this [link](https://jqchong.github.io/jet-lag/). I have tried my very best to convert all imperial units to metric, so it probably will be different from the actual metric version. Welp, it is what it is, and this is what you gotta do to save 100 SGD...
 
+### Conventions
+For Singapore, we will be playing with medium rules (c.f. rule book). All stations are accessible except any stations west to Chinese Garden (i.e. Lakeside, Boon Lay etc.). First group of hiders will start in somewhere central of Singapore (TBD).
+
 ### Rule Book
 Read and understand the following sections.
 
@@ -19,10 +22,23 @@ Read and understand the following sections.
 
 For now you can just skim through The Hider Deck section.
 
+### Map Generator
+Go to Map Generator at the top right corner of the page, and go through the tutorial. I will share the game link when it is time to play. All deductions will be based on the answers given by Map Generator.
+
+Everyone must get an API key from ThunderForest so that the MRT lines and stations are visible on the map.
+
+<!--
+Note: you will see in one of the tutorial pages that players should share the link to each other while playing the game. To make one of the curses work, we will not be doing so. All questions and answers will be done as text messages.
+-->
+
+### Tourist Day Pass
+Buy a tourist day pass as you will be moving a lot in public transportations. 
+
+#### Quick Warning on Public Transportations
+Speaking of public transportations, apparently you must tap out 2 hours after you tap in, otherwise you will be stuck in the station and potentially be fined for loitering.
+
 ### Life 360
 Download Life 360 as it will be used for tracking seekers when you are playing as hiders.
-### Game Map
-Go to Map Generator at the top right corner of the page, and go through the tutorial first. I will share the game link when it is time to play. All deductions will be based on the answers given by Map Generator.
 
 # Website (Note to self)
 
