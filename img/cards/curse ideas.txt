@@ -6,17 +6,15 @@ Casting cost: Discard a time bonus.
 (Clarification: this curse does not stack with hidden hangman, so hiders still need to respond in 30 seconds.)
 
 
----only in singapore---
-
-Curse of the durian temptation
-
-The seekers must acquire some durians, either as a fruit or prepackaged. Once acquired, seekers must wait 30 minutes before consuming them. No wasting food!
-
-Casting cost: Hiders must also acquire and consume durians. Hiders do not need to wait 30 minutes.
-(Clarification: Seekers can still ask questions during the 30 minutes of waiting time.)
-
 Curse of the lie detector
 
 Hiders may lie at most once for the next three non-photo questions. Seekers get exactly one guess to guess whether hiders had lied, and which question was not answered truthfully if hiders did lie. If seekers guessed correctly, they get the next question for free. Otherwise, the game continues as per usual.
 
 Casting cost: Discard one card. Moreover, photo questions must be answered truthfully.
+
+
+Curse of the imaginary sinkhole
+
+Draw a circle (sinkhole) of radius 0.5/0.5/1 km disjoint from your hiding zone on the game map and disclose the center of the sinkhole to the seekers as geographical coordinates. If the seekers pass through the sinkhole, you are awarded an extra 30/45/60-minute time bonus. Once the bonus is delivered, the curse is cleared and the game map reverts back to normal. This curse can only be casted once.
+
+Casting cost: Seekers must be at least 2/5/10 km away from the center of the sinkhole at the time of disclosure.
