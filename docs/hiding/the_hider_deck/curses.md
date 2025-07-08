@@ -71,6 +71,11 @@ Any object or display whose primary purpose is to raise awareness of a product, 
 
 You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this cast must be cast immediately. "Found in nature," in this context, does not necessarily mean found in a natural space or untouched by humans; it simply means that you must find the rocks yourself, and cannot buy them.
 
+
+### Curse of the Lie Detector
+
+You must answer all photo questions truthfully, and photo questions do not count into the three questions. Moreover, once three non-photo questions have been asked, seekers will make their guess as soon as possible, and you have to tell seekers truthfully whether you have lied and which question you did lied.
+
 ### Curse of the Distant Cuisine
 
 The restaurants used in this curse must explicit reference a single country or region within a single country within either their name or some other public-facing material such as a menu. If a restaurant associates itself with multiple countries, or a region larger than a single country (such as an "Asian" restaurant), it cannot be used for this curse. Distance from a given country is measured from your exact location to the nearest point in that country.
@@ -90,6 +95,12 @@ The chosen five-letter word must be a real word, found in a dictionary, in the l
 ### Curse of the Endless Tumble
 
 100 feet is measured parallel to the ground. The die can, and likely should, be rolled on an inclined surface. If the die is lost or does not land cleanly on one side, it cannot be counted. Any bonuses awarded to the hider should be delivered immediately.
+
+### Curse of the Sloth
+
+The curse stacks linearly when played multiple times. As an example, if the curse is casted for the first time, you can take up to 10 = 2 x 5 minutes to answer non-photo questions and 20 = 2 x 10 minutes for photo questions in a small or medium game; the second time, up to 15 = 3 x 5 minutes for non-photo questions and 30 = 3 x 10 minutes for photo questions in a small or medium game.
+
+Once the casting limit is reached (twice for small and medium games and thrice for large games), subsequent casting of the curse will not have any further effect.
 
 ### Curse of the Right Turn
 

@@ -15,8 +15,8 @@ export default function Measuring() {
 				fields={{
 					Transit: [
 						'A Commercial Airport',
-						// 'A High Speed Train Line',
-						// 'A Rail Station',
+						'A High Speed Train Line',
+						'A Rail Station',
 					],
 					/*Borders: [
 						'An International Border',

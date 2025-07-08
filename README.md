@@ -4,6 +4,8 @@ The game will be played on this [link](https://jqchong.github.io/jet-lag/). I ha
 ### Conventions
 For Singapore, we will be playing with medium rules (c.f. rule book). All stations are accessible except any stations west to Chinese Garden (i.e. Lakeside, Boon Lay etc.). First group of hiders will start in somewhere central of Singapore (TBD).
 
+For Munich, we will be playing with small rules. First group of hiders start at Hauptbahnhopf.
+
 ### Rule Book
 Read and understand the following sections.
 

@@ -21,11 +21,11 @@ const powerups = [
 
 const curses = [
 	{ file: 'curse_bridge_troll' },
-	{ file: 'curse_cairn' },
+	{ file: 'curse_lie_detector' },
 	{ file: 'curse_distant_cuisine' },
 	{ file: 'curse_drained_brain' },
 	{ file: 'curse_egg_partner' },
-	{ file: 'curse_endless_tumble' },
+	{ file: 'curse_sloth' },
 	{ file: 'curse_gamblers_feet' },
 	{ file: 'curse_hidden_hangman' },
 	{ file: 'curse_impressionable_consumer' },
