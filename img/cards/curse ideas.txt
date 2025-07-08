@@ -1,14 +1,22 @@
+Curse of the sloth
+
+Hiders may take twice as long to answer subsequent questions. This curse stacks with itself and can be casted at most 1/2/3 times.
+
+Casting cost: Discard a time bonus.
+(Clarification: this curse does not stack with hidden hangman, so hiders still need to respond in 30 seconds.)
+
+
+---only in singapore---
+
+Curse of the durian temptation
+
+The seekers must acquire some durians, either as a fruit or prepackaged. Once acquired, seekers must wait 30 minutes before consuming them. No wasting food!
+
+Casting cost: Hiders must also acquire and consume durians. Hiders do not need to wait 30 minutes.
+(Clarification: Seekers can still ask questions during the 30 minutes of waiting time.)
+
 Curse of the lie detector
 
-For the next 15/30/60 minutes, hiders may choose to lie while answering the questions. Seekers will then guess whether the hiders are lying. If seekers guessed correctly, hiders do not get reward for the question, otherwise, the reward is doubled.
+Hiders may lie at most once for the next three non-photo questions. Seekers get exactly one guess to guess whether hiders had lied, and which question was not answered truthfully if hiders did lie. If seekers guessed correctly, they get the next question for free. Otherwise, the game continues as per usual.
 
-Casting cost: Hiders must answer photo questions truthfully.
-
-
-
-Curse of the smelly breath
-
-The seekers must acquire and consume some durians before asking the next question. Durians can be acquired as a fruit or prepackaged.
-
-Casting cost: Hiders must also acquire and consume durians.
-*implication: seekers cant ride public transportation until they finish their durian lololololol
+Casting cost: Discard one card. Moreover, photo questions must be answered truthfully.
