@@ -42,6 +42,8 @@ Speaking of public transportations, apparently you must tap out 2 hours after yo
 ### Life 360
 Download Life 360 as it will be used for tracking seekers when you are playing as hiders.
 
+N.B. I was told that Google Family Link works as well, but it's only for Android users lol
+
 # Website (Note to self)
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
