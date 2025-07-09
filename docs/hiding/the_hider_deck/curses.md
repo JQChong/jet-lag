@@ -71,11 +71,6 @@ Any object or display whose primary purpose is to raise awareness of a product, 
 
 You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this cast must be cast immediately. "Found in nature," in this context, does not necessarily mean found in a natural space or untouched by humans; it simply means that you must find the rocks yourself, and cannot buy them.
 
-
-### Curse of the Lie Detector
-
-You must answer all photo questions truthfully, and photo questions do not count into the three questions. Moreover, once three non-photo questions have been asked, seekers will make their guess as soon as possible, and you have to tell seekers truthfully whether their guess is correct. If you did lie, you do not have to disclose which question you have lied.
-
 ### Curse of the Distant Cuisine
 
 The restaurants used in this curse must explicit reference a single country or region within a single country within either their name or some other public-facing material such as a menu. If a restaurant associates itself with multiple countries, or a region larger than a single country (such as an "Asian" restaurant), it cannot be used for this curse. Distance from a given country is measured from your exact location to the nearest point in that country.
@@ -96,10 +91,6 @@ The chosen five-letter word must be a real word, found in a dictionary, in the l
 
 100 feet is measured parallel to the ground. The die can, and likely should, be rolled on an inclined surface. If the die is lost or does not land cleanly on one side, it cannot be counted. Any bonuses awarded to the hider should be delivered immediately.
 
-### Curse of the Sloth
-
-This curse can be played multiple times, and the effect stacks, i.e. if the curse is played multiple times, the time allocated to hiders increases by 5 minutes and 10 minutes for photo questions in large games that many times.
-
 ### Curse of the Right Turn
 
 This curse only applies to street intersections, meaning the intersection between two roads intended for cars (or pedestrian sidewalks along those roads.) This curse would not have any effects indoors, or in an area where there are no streets.
@@ -115,6 +106,14 @@ Matching questions become draw 4, keep 1. Measuring questions become draw 4, kee
 ### Curse of the Labyrinth
 
 "Solvable," in this context, refers to a conventional solution to the maze–you must be able to draw an unbroken line from the start of the maze to the end of the maze. Your time limit begins from the moment you draw your first line; time spent gathering materials does not count. You may discard your maze and start drawing a new maze at any point, but you cannot restart your timer. You may not consult the internet or any other materials when drawing your maze; it must come entirely from your own head.
+
+### Curse of the Lie Detector
+
+You must answer all photo questions truthfully, and photo questions do not count into the three questions. Moreover, once three non-photo questions have been asked, seekers will make their guess as soon as possible, and you have to tell seekers truthfully whether their guess is correct. If you did lie, you do not have to disclose which question you have lied.
+
+### Curse of the Sloth
+
+This curse can be played multiple times, and the effect stacks, i.e. if the curse is played multiple times, the time allocated to hiders increases by 5 minutes and 10 minutes for photo questions in large games that many times.
 
 ### Curse of the Imaginary Sinkhole
 
