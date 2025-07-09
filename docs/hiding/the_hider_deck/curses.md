@@ -25,7 +25,7 @@ This curse may be used (and its price paid) during the time interval between a q
 
 ### Curse of the Water Weight
 
-Any liquid already traveling with the seekers at the time that this card is played (e.g. water bottles) does not count. The liquid can be in any number of containers, and can be passed back and forth between the seekers at any time. The liquid can be sat down when the seekers are stationary or on transit, but it is considered "abandoned" once it is no longer within 10 feet of any seeker. The hider must be informed of their bonus immediately. "Body of water" within this context does not necessarily mean natural, but it cannot be a pool and must be large enough to be marked on the map.
+Any liquid already traveling with the seekers at the time that this card is played (e.g. water bottles) does not count. The liquid can be in any number of containers, and can be passed back and forth between the seekers at any time. The liquid can be sat down when the seekers are stationary or on transit, but it is considered "abandoned" once it is no longer within 3 meters of any seeker. The hider must be informed of their bonus immediately. "Body of water" within this context does not necessarily mean natural, but it cannot be a pool and must be large enough to be marked on the map.
 
 ### Curse of the Zoologist
 
@@ -74,7 +74,7 @@ You cannot begin fulfilling the casting cost of this curse if you would be other
 
 ### Curse of the Lie Detector
 
-You must answer all photo questions truthfully, and photo questions do not count into the three questions. Moreover, once three non-photo questions have been asked, seekers will make their guess as soon as possible, and you have to tell seekers truthfully whether you have lied and which question you did lied.
+You must answer all photo questions truthfully, and photo questions do not count into the three questions. Moreover, once three non-photo questions have been asked, seekers will make their guess as soon as possible, and you have to tell seekers truthfully whether their guess is correct. If you did lie, you do not have to disclose which question you have lied.
 
 ### Curse of the Distant Cuisine
 
@@ -98,9 +98,7 @@ The chosen five-letter word must be a real word, found in a dictionary, in the l
 
 ### Curse of the Sloth
 
-The curse stacks linearly when played multiple times. As an example, if the curse is casted for the first time, you can take up to 10 = 2 x 5 minutes to answer non-photo questions and 20 = 2 x 10 minutes for photo questions in a small or medium game; the second time, up to 15 = 3 x 5 minutes for non-photo questions and 30 = 3 x 10 minutes for photo questions in a small or medium game.
-
-Once the casting limit is reached (twice for small and medium games and thrice for large games), subsequent casting of the curse will not have any further effect.
+This curse can be played multiple times, and the effect stacks, i.e. if the curse is played multiple times, the time allocated to hiders increases by 5 minutes and 10 minutes for photo questions in large games that many times.
 
 ### Curse of the Right Turn
 
@@ -117,3 +115,16 @@ Matching questions become draw 4, keep 1. Measuring questions become draw 4, kee
 ### Curse of the Labyrinth
 
 "Solvable," in this context, refers to a conventional solution to the maze–you must be able to draw an unbroken line from the start of the maze to the end of the maze. Your time limit begins from the moment you draw your first line; time spent gathering materials does not count. You may discard your maze and start drawing a new maze at any point, but you cannot restart your timer. You may not consult the internet or any other materials when drawing your maze; it must come entirely from your own head.
+
+### Curse of the Imaginary Sinkhole
+
+The center of the sinkhole should be given in the format (Latitude to 5 d.p. N/S, Longitude to 5 d.p. E/W). The "distance" between the seekers and the boundary of the sinkhole is the difference between the distance of the seekers to the center and the radius of the sinkhole.
+
+### Curse of the Magic Bus
+
+If the seekers are on a bus, they must get off their current bus at the next bus stop (see Curse of the U-turn). They cannot board the same bus they got off earlier. If the Curse of the Jammed Door is active, the effect of this curse is applied later. In other words, the bus they will board will be the bus that passed the dice check.
+
+### Curse of the Durian Temptation
+You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this curse must be cast immediately. To fulfill the cost, you only need to acquire durians, and you can consume the durians immediately after the curse has been cast. As for seekers, the 30 minute timer starts immediately once they have acquired the durians. This curse alone does not prevent seekers from asking questions during the 30 minutes.
+
+Note: Singapore bans durians on public transportations, do you see where I am going with this curse? :)
