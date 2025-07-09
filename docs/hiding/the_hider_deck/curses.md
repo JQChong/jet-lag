@@ -113,7 +113,7 @@ You must answer all photo questions truthfully, and photo questions do not count
 
 ### Curse of the Sloth
 
-This curse can be played multiple times, and the effect stacks, i.e. if the curse is played multiple times, the time allocated to hiders increases by 5 minutes and 10 minutes for photo questions in large games that many times.
+This curse can be played multiple times, and the effect stacks, i.e. the time allocated to hiders increases by 5 minutes and 10 minutes for photo questions in large games the number of times the curse is played.
 
 ### Curse of the Imaginary Sinkhole
 
