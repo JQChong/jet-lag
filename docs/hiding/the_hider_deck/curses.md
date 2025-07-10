@@ -127,3 +127,6 @@ If the seekers are on a bus, they must get off their current bus at the next bus
 You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this curse must be cast immediately. To fulfill the cost, you only need to acquire durians, and you can consume the durians immediately after the curse has been cast. As for seekers, the 30 minute timer starts immediately once they have acquired the durians. This curse alone does not prevent seekers from asking questions during the 30 minutes.
 
 Note: Singapore bans durians on public transportations, do you see where I am going with this curse? :)
+
+### Curse of the Mala Ego
+You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this curse must be cast immediately. The Mala meal can be acquired from any available stall, and the curse must be cast once the hiders finish the meal.
