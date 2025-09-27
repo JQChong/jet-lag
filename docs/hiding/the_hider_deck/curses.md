@@ -107,10 +107,6 @@ Matching questions become draw 4, keep 1. Measuring questions become draw 4, kee
 
 "Solvable," in this context, refers to a conventional solution to the maze–you must be able to draw an unbroken line from the start of the maze to the end of the maze. Your time limit begins from the moment you draw your first line; time spent gathering materials does not count. You may discard your maze and start drawing a new maze at any point, but you cannot restart your timer. You may not consult the internet or any other materials when drawing your maze; it must come entirely from your own head.
 
-### Curse of the Lie Detector
-
-You must answer all photo questions truthfully, and photo questions do not count into the three questions. Moreover, once three non-photo questions have been asked, seekers will make their guess as soon as possible, and you have to tell seekers truthfully whether their guess is correct. If you did lie, you do not have to disclose which question you have lied.
-
 ### Curse of the Sloth
 
 This curse can be played multiple times, and the effect stacks, i.e. the time allocated to hiders increases by 5 minutes and 10 minutes for photo questions in large games the number of times the curse is played.
@@ -123,8 +119,8 @@ The center of the sinkhole should be given in the format (Latitude to 5 d.p. N/S
 
 If the seekers are on a bus, they must get off their current bus at the next bus stop (see Curse of the U-turn). They cannot board the same bus they got off earlier. If the Curse of the Jammed Door is active, the effect of this curse is applied later. In other words, the bus they board will be the bus that pass the dice check.
 
-### Curse of the Durian Temptation
-You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this curse must be cast immediately. To fulfill the cost, you only need to acquire durians, and you can consume the durians immediately after the curse has been cast. As for seekers, the 30 minute timer starts immediately once they have acquired the durians. This curse alone does not prevent seekers from asking questions during the 30 minutes.
+### Curse of the Forbidden Fruit
+You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this curse must be cast immediately. To fulfill the cost, you only need to acquire durians, and you can consume the durians immediately after the curse has been cast. As for seekers, the 20 minute timer starts immediately once they have acquired the durians. This curse alone does not prevent seekers from asking questions during the 20 minutes.
 
 Note: Singapore bans durians on public transportations, do you see where I am going with this curse? :)
 
