@@ -126,16 +126,16 @@ export const cardDefinitions: Card[] = [
 		count: 1,
 		hasMorePages: false,
 		useText:
-			'To use this card, you must be (S 1) (M 5) (L 30) miles away from the seekers.',
+			'To use this card, you must be (S 1) (M 10) (L 50) km away from the seekers.',
 		canUse: (hand) => true,
 	},
-	{
+	/*{
 		file: 'curse_cairn',
 		count: 1,
 		hasMorePages: false,
 		useText: 'To use this card, you must build a rock tower.',
 		canUse: (hand) => true,
-	},
+	},*/
 	{
 		file: 'curse_distant_cuisine',
 		count: 1,
@@ -159,14 +159,14 @@ export const cardDefinitions: Card[] = [
 			'You cannot use this card as you do not have 2 cards in your hand.',
 		canUse: (hand) => hand.length > 2,
 	},
-	{
+	/*{
 		file: 'curse_endless_tumble',
 		count: 1,
 		hasMorePages: false,
 		useText:
 			"To use this card, you must roll a die. If it's a 5 or a 6, this card has no effect.",
 		canUse: (hand) => true,
-	},
+	},*/
 	{
 		file: 'curse_gamblers_feet',
 		count: 1,
@@ -319,6 +319,46 @@ export const cardDefinitions: Card[] = [
 			'To use this card, you must send the seekers a photo of an animal.',
 		canUse: (hand) => true,
 	},
+	{
+		file: 'curse_durian',
+		count: 1,
+		hasMorePages: false,
+		useText: 'To use this card, you must finish a serving of durian.',
+		canUse: (hand) => true,
+	},
+	{
+		file: 'curse_mala',
+		count: 1,
+		hasMorePages: false,
+		useText: 'To use this card, you must finish a serving of mala and declare the price and level of spiciness.',
+		canUse: (hand) => true,
+	},
+	{
+		file: 'curse_bus',
+		count: 1,
+		hasMorePages: false,
+		useText: "To use this card, you must roll a die. If it's an even number, this card has no effect.",
+		canUse: (hand) => true,
+	},
+	{
+		file: 'curse_imaginary_sinkhole',
+		count: 1,
+		hasMorePages: false,
+		useText: "To use this card, seekers must be (S 2) (M 5) (L 10) km away from the boundary of the sinkhole.",
+		canUse: (hand) => true,
+	},
+	{
+		file: 'curse_sloth',
+		count: 1,
+		hasMorePages: true,
+		useText: 'To use this card, you must discard a time bonus from your hand.',
+		cannotUseText:
+			'You cannot use this card as you do not have a time bonus in your hand.',
+		canUse: (hand) => {
+			for (let card of hand) if (card.file.includes('time_bonus')) return true;
+			return false;
+		},
+	}
 ];
 
 function generateDeck(): DeckCard[] {

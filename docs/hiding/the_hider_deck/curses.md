@@ -117,10 +117,14 @@ The center of the sinkhole should be given in the format (Latitude to 5 d.p. N/S
 
 ### Curse of the Magic Bus
 
-If the seekers are on a bus, they must get off their current bus at the next bus stop (see Curse of the U-turn). They cannot board the same bus they got off earlier. If the Curse of the Jammed Door is active, the effect of this curse is applied later. In other words, the bus they board will be the bus that pass the dice check.
+If the seekers are on a bus, they must get off their current bus at the next bus stop (i.e. the next bus stop that the seekers' bus will stop at; if there are any stops along the line that their current route will skip, those should be disregarded).
+
+They cannot board the same bus they got off earlier. The bus numbers can be the same. If the Curse of the Jammed Door is active, the effect of this curse is applied later. In other words, the bus they board will be the bus that pass the dice check.
 
 ### Curse of the Forbidden Fruit
-You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this curse must be cast immediately. To fulfill the cost, you only need to acquire durians, and you can consume the durians immediately after the curse has been cast. As for seekers, the 20 minute timer starts immediately once they have acquired the durians. This curse alone does not prevent seekers from asking questions during the 20 minutes.
+You cannot begin fulfilling the casting cost of this curse if you would be otherwise unable to play a curse; once the cost is fulfilled, this curse must be cast immediately. To fulfill the cost, you only need to acquire durians, and you can consume the durians immediately after the durian has been acquired. The curse must be cast once the durians have been consumed completely. No wasting food!
+
+As for seekers, the 20 minute timer starts immediately once they have acquired the durians. This curse alone does not prevent seekers from asking questions during the 20 minutes.
 
 Note: Singapore bans durians on public transportations, do you see where I am going with this curse? :)
 

@@ -20,10 +20,12 @@ const powerups = [
 ];
 
 const curses = [
+	{ file: 'curse_bus' },
 	{ file: 'curse_bridge_troll' },
 	{ file: 'curse_distant_cuisine' },
 	{ file: 'curse_drained_brain' },
 	{ file: 'curse_egg_partner' },
+	{ file: 'curse_durian'},
 	{ file: 'curse_gamblers_feet' },
 	{ file: 'curse_hidden_hangman' },
 	{ file: 'curse_imaginary_sinkhole' },
@@ -32,6 +34,7 @@ const curses = [
 	{ file: 'curse_labyrinth' },
 	{ file: 'curse_lemon_phylactery' },
 	{ file: 'curse_luxury_car' },
+	{ file: 'curse_mala' },
 	{ file: 'curse_mediocre_travel_agent' },
 	{ file: 'curse_overflowing_chalice' },
 	{ file: 'curse_ransom_note' },
