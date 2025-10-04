@@ -4,7 +4,9 @@ sidebar_position: 7
 
 # Photo Questions
 
-Photo questions follow the format, "Send me a photo of \_\_\_\_." Valid answers are a photo that meets the full specifications of the photo question, or "I cannot answer the question," in situations where the subject of the photograph doesn't exist in the hiding zone. Hiders have ten minutes to answer in small and medium games, and twenty minutes to answer in large games. All photos must be sent in your phone's normal aspect ratio. Photos are a useful way of getting a general sense of where the hider is, or for verifying that you've arrived at the right location, but you cannot access Google Street View to assess photos or verify stations from afar.
+Photo questions follow the format, "Send me a photo of \_\_\_\_." Valid answers are a photo that meets the full specifications of the photo question, or "I cannot answer the question," in situations where the subject of the photograph doesn't exist in the hiding zone, or the hider is required to move somewhere else to take a picture during the endgame.
+
+Hiders have ten minutes to answer in small and medium games, and twenty minutes to answer in large games. All photos must be sent in your phone's normal aspect ratio. Photos are a useful way of getting a general sense of where the hider is, or for verifying that you've arrived at the right location, but you cannot access Google Street View to assess photos or verify stations from afar.
 
 These are photo questions available to the seekers in **<LabelPill label='SMALL'/> sized games**:
 
@@ -75,6 +77,8 @@ Must include a 15 cm × 15 cm section with three distinct elements. The litmus t
 #### Train Platform / Gantry of Train Station
 
 Must include a 15 cm × 15 cm section with three distinct elements. The litmus test for the distinct elements is: if someone went to that place and found what you took a picture of, they could confidently match it, and be sure it wasn't taken somewhere else.
+
+You DO NOT need to tap in and tap out just to take a picture. If the platform is not visible from the gantry, take a picture of the gantry. If there are multiple gantries, you may choose. Censor any text and flatten the image before sending (so that the blockage is irreversible).
 
 ### For <LabelPill label='LARGE' fontSize='1rem'/> Sized Games, Add the Following:
 
