@@ -72,7 +72,7 @@ No zoom. Stand at the end of the aisle, shoot directly down.
 
 Must include a 15 cm × 15 cm section with three distinct elements. The litmus test for the distinct elements is: if someone went to that place and found what you took a picture of, they could confidently match it, and be sure it wasn't taken somewhere else.
 
-#### Train Platform
+#### Train Platform / Gantry of Train Station
 
 Must include a 15 cm × 15 cm section with three distinct elements. The litmus test for the distinct elements is: if someone went to that place and found what you took a picture of, they could confidently match it, and be sure it wasn't taken somewhere else.
 

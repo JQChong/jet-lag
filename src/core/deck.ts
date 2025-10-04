@@ -347,7 +347,7 @@ export const cardDefinitions: Card[] = [
 		useText: "To use this card, seekers must be (S 2) (M 5) (L 10) km away from the boundary of the sinkhole.",
 		canUse: (hand) => true,
 	},
-	{
+	/*{
 		file: 'curse_sloth',
 		count: 1,
 		hasMorePages: true,
@@ -358,7 +358,7 @@ export const cardDefinitions: Card[] = [
 			for (let card of hand) if (card.file.includes('time_bonus')) return true;
 			return false;
 		},
-	}
+	}*/
 ];
 
 function generateDeck(): DeckCard[] {
